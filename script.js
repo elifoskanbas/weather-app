@@ -6,7 +6,7 @@ const input = document.getElementById("inputBox");
 const icon = document.getElementById("weather-icon");
 let cityName = "city";
 
-const apiKey = "4f6cc65d1df17ef8f5ebd33071c744e9";
+const apiKey = ""; //enter your valid OpenWeather API key here.
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric";
 
 
